@@ -1,0 +1,111 @@
+[
+{
+    "name":"Abdul Hakmid Khan Bhashani",
+    "lifetime":"1880-1976",
+    "country":"Bangladesh",
+    "party":"National Awami League",
+    "salary":15000,
+    "key":"18801976",
+    "img":"https://i.ibb.co/4mbS1n4/img-1.jpg"
+    },
+    {
+    "name":"Abdul Kasham Fajlul Haque",
+    "lifetime":"1873-1962",
+    "country":"East Pakistan",
+    "party":"Juktofront",
+    "salary":16000,
+    "key":"18731962",
+    "img":"https://i.ibb.co/8NpBLcb/img-2.jpg"
+    },
+    {
+    "name":"Huseyn Shaheed Sahrawardy",
+    "lifetime":"1892-1963",
+    "country":"East Pakistan",
+    "party":"Independent Muslim Party",
+    "salary":16000,
+    "key":"18921963",
+    "img":"https://i.ibb.co/GtbVvPs/img-3.jpg"
+    },
+
+    {
+    "name":"Sheikh Mujibur Rahman",
+    "lifetime":"1920-1975",
+    "country":"Bangladesh",
+    "party":"Awami League",
+    "salary":18000,
+    "key":"19201975",
+    "img":"https://i.ibb.co/7WwQdFt/img-4.jpg"
+    },
+    {
+    "name":"Ziaur Rahman",
+    "lifetime":"1936-1981",
+    "country":"Bangladesh",
+    "party":"Banaldesh Nationalist Prty",
+    "salary":19000,
+    "key":"19361981",
+    "img":"https://i.ibb.co/5M1v9ph/img-5.jpg"
+    },
+    {
+    "name":"Muhammad Ali Jinnah",
+    "lifetime":"1876-1948",
+    "country":"Pakistan",
+    "party":"Muslim League",
+    "salary":20000,
+    "key":"18761948",
+    "img":"https://i.ibb.co/QJkYpTg/img-6.jpg"
+    },
+    {
+    "name":"Mhatma Gandhi",
+    "lifetime":"1869-1948",
+    "country":"India",
+    "party":"Indian National Congress",
+    "salary":13000,
+    "key":"18691948",
+    "img":"https://i.ibb.co/QYtjzDb/img-7.jpg"
+    },
+    {
+    "name":"Mahatir Mohammad",
+    "lifetime":"1925-",
+    "country":"Malaysia",
+    "party":"Homeland Fighter Party",
+    "salary":14000,
+    "key":"1925",
+    "img":"https://i.ibb.co/WFzJbpY/img-8.jpg"
+    },
+    {
+    "name":"Nelson Mandela",
+    "lifetime":"1918-2013",
+    "country":"South Africa",
+    "party":"South African Communist Party",
+    "salary":19000,
+    "key":"19182013",
+    "img":"https://i.ibb.co/4p3P65B/img-9.jpg"
+    },
+    {
+    "name":"Recep Tayyip Erdogan",
+    "lifetime":"1954",
+    "country":"Turkey",
+    "party":"AK Party",
+    "salary":17000,
+    "key":"1954",
+    "img":"https://i.ibb.co/h1vYjnQ/img-10.jpg"
+    },
+    {
+    "name":"Taj Uddin Ahmed",
+    "lifetime":"1925-1975",
+    "country":"Bnagladesh",
+    "party":"Bangladesh Awami League",
+    "salary":17000,
+    "key":"19251975",
+    "img":"https://i.ibb.co/brJMSVY/img-11.jpg"
+    },
+    {
+    "name":"Sayed Najrul Islam",
+    "lifetime":"1925-1975",
+    "country":"Bangladesh",
+    "party":"Bangladesh Awami League",
+    "salary":16000,
+    "key":"19251976",
+    "img":"https://i.ibb.co/JxbB9hM/img-12.jpg"
+    }
+]
